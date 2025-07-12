@@ -11,4 +11,14 @@ flowerdle is a real life two player wordle game - but instead of letters, there'
 [photos]
 
 ## bom
-bom
+| Item          | Amount |
+| ------------- | ------ |
+| RP2040        | 1      |
+| Breadboard    | 2      |
+| 300 resistor  | 8      |
+| 1.2k resistor | 10     |
+| 2k resistor   | 2      |
+| 3.4k resistor | 2      |
+| 4.2k resistor | 2      |
+| 1.28" TFT LCD | 1      |
+| LED (RGB)     | 8      |
