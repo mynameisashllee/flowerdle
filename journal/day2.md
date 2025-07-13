@@ -7,3 +7,14 @@ Had 2 project demos today which went quite well, and we went through our 3d desi
 Turns out the other two were printed in the wrong colour and our adjusted bottom plate is yet to be printed so those two are a problem for tomorrow i guess
 Right now we're relying on paint markers to fix the colour problems in case too many people need the 3d printers tomorrow
 and thats it for the night. goodnight!
+
+or probably not so fast, cus I just stayed up and try to get the firmware done.
+
+It was a pretty serious problem: the pins are not enough.
+So I go google for some details and found something worse: not only the GPIO pin are not enough, bout we only have 3 analog pins to read 4 analog data.
+I searched online to see if I can find any solution. I also talked to Gemini. But after all, I decide I .have to share the pins.
+
+This is basically how it's going to work.
+First, I can use a main GPIO pin to provide power for the sensor, and then just read the values and cut it off and switch to the secondary GPIO pin and read the remaining value, and finally switch back to the original state.
+
+I worked like till 4 am. so hope I can still lock in tomorrow. (PS I'm having too much caffeine I'm just want to sleep now.)
