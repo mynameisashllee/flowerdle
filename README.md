@@ -1,5 +1,5 @@
 # flowerdle
-![overall](https://github.com/mynameisashllee/flowerdle/blob/main/overall.png?raw=true)
+![overall](https://github.com/mynameisashllee/flowerdle/blob/main/img/overall.png?raw=true)
 
 ## description
 flowerdle is a real life two player wordle game - but instead of letters, there's minecraft flowers! and instead of one person, there's two! compete in a fierce race to guess the right flowers... or perish by pollen. just kidding.
@@ -34,7 +34,7 @@ take a look at our daily journals at [journals](journal) and our process picture
 ## building files
 * 📂 src
     * [📂 cad](src/cad)
-        * [📄 case cads](src/cad/breadboard_case)
+        * [📄 case cads](src/cad/breadboardcase)
         * [📄 flower cads](src/cad/flowers)
         * [📄 flower base cads](src/cad/structures)
     * [📂 firmware](src/firmware)
