@@ -4,6 +4,9 @@
 ## description
 flowerdle is a real life two player wordle game - but instead of letters, there's minecraft flowers! and instead of one person, there's two! compete in a fierce race to guess the right flowers... or perish by pollen. just kidding.
 
+## youtube demo
+[link]
+
 ## how it works
 there are four flowers - tulips (pink), poppies (red), oxeye daisies (white) and cornflowers (blue). each flower has a resistor of different resistance inside it to distinguish them. the resistors are held below each flower stem with a case, with pins poking out the bottom so you can plant them into the breadboard.
 ![flower](https://github.com/mynameisashllee/flowerdle/blob/main/flower.png?raw=true)
@@ -26,17 +29,13 @@ once your turn is done, it increments the number of tries on the display. whoeve
 ![schematic](https://github.com/mynameisashllee/flowerdle/blob/main/img/schematic.png?raw=true)
 
 ## directory
-📁 src<br>
-│<br>
-├── 📂 [cad](src/cad)<br>
-│   ├── 📄 [case cads](src/cad/breadboard_case)<br>
-│   └── 📄 [flower cads](src/cad/flowers)<br>
-│   └── 📄 [flower base cads](src/cad/structures)<br>
-│<br>
-├── 📂 [firmware](src/firmware)<br>
-│   ├── 📄 [code.py](src/firmware/code.py)<br>
-│<br>
-└── 📂 [schematic](src/schematic)<br>
-│   └── 📄 kicad files<br>
-│<br>
-└── 📄 [bom](src/bom.md)<br>
+* 📂 src
+    * [📂 cad](src/cad)
+        * [📄 case cads](src/cad/breadboard_case)
+        * [📄 flower cads](src/cad/flowers)
+        * [📄 flower base cads](src/cad/structures)
+    * [📂 firmware](src/firmware)
+        * [📄 code.py](src/firmware/code.py)
+    * [📂 schematic](src/schematic)
+        * 📄 kicad files
+    * [📄 bom](src/bom.md)
