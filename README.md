@@ -5,7 +5,7 @@
 flowerdle is a real life two player wordle game - but instead of letters, there's minecraft flowers! and instead of one person, there's two! compete in a fierce race to guess the right flowers... or perish by pollen. just kidding.
 
 ## youtube demo
-[link]
+[link](https://youtu.be/ab2HIsHCvx8)
 
 ## how it works
 there are four flowers - tulips (pink), poppies (red), oxeye daisies (white) and cornflowers (blue). each flower has a resistor of different resistance inside it to distinguish them. the resistors are held below each flower stem with a case, with pins poking out the bottom so you can plant them into the breadboard.
