@@ -19,6 +19,8 @@ there are 2 breadboards for players with spaces to put the flowers and leds (red
 and there's a breadboard for the oled display.
 ![oled](https://raw.githubusercontent.com/mynameisashllee/flowerdle/refs/heads/main/img/oled.png)
 
+the breadboard cases have unfortunately not been printed as of shipping, but hopefully will be before project demos! check out how they will look in the [cad files](src/cad/breadboardcase).
+
 on each turn, you plug in all four flowers for your guess. then, the led lights up green or red based on whether the guess for that slot is correct or wrong, respectively.
 ![leds](https://raw.githubusercontent.com/mynameisashllee/flowerdle/refs/heads/main/img/leds.png)
 
