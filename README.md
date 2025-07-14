@@ -26,17 +26,17 @@ once your turn is done, it increments the number of tries on the display. whoeve
 ![schematic](https://github.com/mynameisashllee/flowerdle/blob/main/img/schematic.png?raw=true)
 
 ## directory
-📁 src\n
-│\n
-├── 📂 [cad](src/cad)\n
-│   ├── 📄 [case cads](src/cad/breadboard_case)\n
-│   └── 📄 [flower cads](src/cad/flowers)\n
-│   └── 📄 [flower base cads](src/cad/structures)\n
-│\n
-├── 📂 [firmware](src/firmware)\n
-│   ├── 📄 [code.py](src/firmware/code.py)\n
-│\n
-└── 📂 [schematic](src/schematic)\n
-│   └── 📄 kicad files\n
-│\n
-└── 📄 [bom](src/bom.md)\n
+📁 src<br>
+│<br>
+├── 📂 [cad](src/cad)<br>
+│   ├── 📄 [case cads](src/cad/breadboard_case)<br>
+│   └── 📄 [flower cads](src/cad/flowers)<br>
+│   └── 📄 [flower base cads](src/cad/structures)<br>
+│<br>
+├── 📂 [firmware](src/firmware)<br>
+│   ├── 📄 [code.py](src/firmware/code.py)<br>
+│<br>
+└── 📂 [schematic](src/schematic)<br>
+│   └── 📄 kicad files<br>
+│<br>
+└── 📄 [bom](src/bom.md)<br>
