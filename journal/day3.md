@@ -3,7 +3,9 @@ Its the last full day to finish our project(#crashingout). Okay but we're on tra
 
 We also refined our firmware and got it fully functioning. 
 
-We got our prints at around 9.30 but bad news!! Our prints are all in black(lowkey cooked given our game depends on having different coloured flowers). But the paint markers saved the day and we managed to get some white paint too and we repainted the flowers but we're yet to get out breadboard case which will apparently be ready before 8 am tomorrow. 
+We got our prints at around 9.30 but bad news!! Our prints are all in black(lowkey cooked given our game depends on having different coloured flowers). But the paint markers saved the day and we managed to get some white paint too and we repainted the flowers but we're yet to get out breadboard case which will apparently be ready before 8 am tomorrow.
+
+Also WHY ARE 3D PRINT SUPPORTS SO HARD TO REMOVE?? (might've accidentally injured myself with the tweezers but we're balling!!)
 
 We painted and assembled all our flowers and our electronics and fully tested things out at around 1.20 am after undernet and IT WORKS!!!
 
