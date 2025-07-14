@@ -19,7 +19,7 @@ and there's a breadboard for the oled display.
 on each turn, you plug in all four flowers for your guess. then, the led lights up green or red based on whether the guess for that slot is correct or wrong, respectively.
 ![leds](https://github.com/mynameisashllee/flowerdle/blob/main/img/leds.png?raw=true)
 
-once your turn is done, it increments the number of tries on the display. whoever gets the code correct first wins! 
+once your turn is done, it increments the number of tries on the display. whoever gets the code correct first with the least number of tries wins! 
 ![winner](https://github.com/mynameisashllee/flowerdle/blob/main/img/winner.png?raw=true)
 
 ## schematic
