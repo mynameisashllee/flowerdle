@@ -1,16 +1,3 @@
-#
-# gc9a01_helloworld.py -- Simple Demo of GC9A01 Round LCD 
-#
-# 2021 - Tod Kurt - todbot.com
-#
-# Tested on QTPy M0 (SAMD21), QTPy RP2040, ItsyBitsy M4,
-# Raspberry Pi Pico (RP2040) running CircuitPython 7
-#
-# You'll need to install 'adafruit_display_text' and 'gc9a01' library.
-# Easiest way to do this is from Terminal:
-#  circup install adafruit_display_text gc9a01
-#
-
 import time
 import board
 import math
