@@ -13,3 +13,4 @@ basically, the firmware generates a random code of four colours which the player
 by the time we figured out the circuit and went to collect our hardware, it was 2am. we discovered and soldered an orpheus pico and found this really fun round oled screen (thanks joe). we also got very many resistors which are really hard to distinguish in low light and while sleep deprived.
 
 at about 2.40am, we tried to clear up the mess and created the repo. sadly, we realised that we had forgotten to get the leds and resistors and include them in the wiring ): job for tomorrow. goodnight!
+
