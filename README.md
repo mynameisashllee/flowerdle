@@ -28,7 +28,10 @@ once your turn is done, it increments the number of tries on the display. whoeve
 ## schematic
 ![schematic](https://github.com/mynameisashllee/flowerdle/blob/main/img/schematic.png?raw=true)
 
-## directory
+## journal
+take a look at our daily journals at [journals](journal) and our process pictures at [pictures](journal/pics.md) (featuring food pics!).
+
+## building files
 * 📂 src
     * [📂 cad](src/cad)
         * [📄 case cads](src/cad/breadboard_case)
